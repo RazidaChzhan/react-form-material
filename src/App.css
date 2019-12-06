@@ -1,0 +1,88 @@
+.google {
+  background-color: #FFFFFF;
+  width: 154px;
+  height: 41px;
+  border: 1px solid #CFD9E0;
+  color: #222222;
+  font-Family: Roboto;
+  border-radius: 5px;
+  font-weight: 500;
+}
+
+.facebook {
+  background-color: #3B5998;
+  color: #FFFFFF;
+  border-radius: 5px;
+  width: 154px;
+  height: 41px;
+  font-Family: Roboto;
+  box-shadow: none;
+  border: 1px solid #CFD9E0;
+}
+
+.google-img {
+  width: 24px;
+  height: 12px;
+}
+
+.vkontakte {
+  background-color: #4680C2;
+  color: #FFFFFF;
+  border-radius: 5px;
+  font-Family: Roboto;
+  width: 154px;
+  height: 41px;
+  box-shadow: none;
+  border: 1px solid #CFD9E0;
+}
+
+.vkontakte-img {
+  width: 16px;
+  height: 16px;
+}
+
+.signIn {
+  background: linear-gradient(90deg, #2797B6 0%, #54C5CF 100%), #2FA2BC;
+  color: #FFFFFF;
+  border-radius: 100px;
+  font-family: Roboto;
+  width: 154px;
+  height: 50px;
+  font-weight: bold;
+  font-size: 16px;
+  border: 1px solid #CFD9E0;
+}
+
+.forgotPassword {
+  font-family: Helvetica CE;
+  font-size: 14px;
+  text-decoration: none;
+  color: #2FA2BC;
+}
+
+.orText {
+  color: #7A7A7A;
+  font-family: Roboto;
+  text-align: center;
+  font-style: italic;
+  font-size: 16px;
+  padding-top: 15px;
+}
+
+.hr {
+  border: 1px solid #CFD9E0;
+  margin-top: 30px;
+}
+
+.rightArrow {
+  padding-left: 10px;
+}
+
+.university {
+  color: #2FA2BC;
+  text-decoration: underline;
+}
+
+.radiobuttons {
+  color: #802882;
+}
